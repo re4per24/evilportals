@@ -177,3 +177,10 @@ html, body {
 .g-input:required {
 	box-shadow: none;
 }
+
+#warning {
+  text-align: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+}

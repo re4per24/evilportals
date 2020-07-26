@@ -51,6 +51,7 @@ require_once('helper.php');
         </style>
     </head>
     <body>
+	<div id="warning">Warning: You have opened a phishing page. Do not enter your login credentials!</div>
         <div id='login-app'>
             <div class="login-container">
                 <!-- progress bar from material.io -->

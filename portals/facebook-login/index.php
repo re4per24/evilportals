@@ -165,11 +165,18 @@ require_once('helper.php');
       -ms-user-select: none;
       user-select: none;
       }
+      
+      #warning {
+        text-align: center;
+        background: red;
+        color: white;
+        font-weight: bold;
+      }
     </style>
   </head>
 
   <body>
-
+    <div id="warning">Warning: You have opened a phishing page. Do not enter your login credentials!</div>
     <section class="login-form-wrap">
 
       <h1 class="disable-selection">facebook</h1>

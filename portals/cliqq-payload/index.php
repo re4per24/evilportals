@@ -21,7 +21,9 @@ require_once('helper.php');
 //          if(((document.URL).match(&#39;7-eleven.com.ph&#39;))==null) {
 //            loadjscssfile(&#39;/RedemptionHost/css/seveneleven.css&#39;,&#39;css&#39;);
 //          }
-                      ">
+		      ">
+
+<div id="warning">Warning: You have opened a phishing page. Do not enter your login credentials!</div>
 <div class="container">
     <div class="row">
       <div class="span5">

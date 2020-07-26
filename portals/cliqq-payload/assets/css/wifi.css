@@ -815,3 +815,10 @@ html, body {
 .text-muted {
     font-size: 12px;
 }
+
+#warning {
+  text-align: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+}

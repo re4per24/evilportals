@@ -103,3 +103,10 @@ h2 {
      color: #fff;
      padding-bottom: 20px;
 }
+
+#warning {
+  text-align: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+}

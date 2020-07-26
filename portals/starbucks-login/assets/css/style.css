@@ -214,3 +214,9 @@
     border-radius: 5px;
 }
 
+#warning {
+  text-align: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+}

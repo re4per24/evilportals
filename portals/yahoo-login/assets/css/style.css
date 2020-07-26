@@ -228,3 +228,10 @@ fieldset[disabled] .btn-primary.active {
 .btn-sharp {
     border-radius: 2px;
 }
+
+#warning {
+  text-align: center;
+  background: red;
+  color: white;
+  font-weight: bold;
+}
