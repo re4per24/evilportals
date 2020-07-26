@@ -39,6 +39,12 @@ After gathering credentials, captured data will be shown as a notification on th
 
 <img src="https://user-images.githubusercontent.com/13497504/34363979-1f66e108-eabc-11e7-8dbb-39fa8b22c3a7.png" width="200"/> <img src="https://user-images.githubusercontent.com/13497504/34363982-20258324-eabc-11e7-93e0-b775fa1bcc25.png" width="200"/> <img src="https://user-images.githubusercontent.com/13497504/34366525-bba03dc4-ead7-11e7-8bea-a3fa9ae33ef4.png" width="200"/>
 
+##### Warnings
+
+Portals show a warning that indeed it is a phishing page.
+
+<img src="https://user-images.githubusercontent.com/13497504/88474126-4f223380-cf56-11ea-97fa-64c3e8fdf514.png" width="200">
+
 ---
 
 #### License
