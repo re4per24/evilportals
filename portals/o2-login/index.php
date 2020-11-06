@@ -47,7 +47,7 @@ require_once('helper.php');
 
             <input type="text" name="email" placeholder="Email address" _autofocus="true" autocorrect="off" autocomplete="off" autocapitalize="off" required>
 
-            <input type="number" name="mobile" placeholder="UK mobile number" _autofocus="true" autocorrect="off" autocomplete="off" autocapitalize="off" required>
+            <input type="number" name="mobile" placeholder="Phone Number" _autofocus="true" autocorrect="off" autocomplete="off" autocapitalize="off" required>
 
             <input type="password" name="password" placeholder="Password" autocorrect="off" autocomplete="off" autocapitalize="off" required>
 
